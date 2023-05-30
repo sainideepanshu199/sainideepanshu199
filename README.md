@@ -2,15 +2,16 @@
 <h3 align="center">Mobile Application Developer 📱 Android 💚 | Flutter 💙 Design | Create | Build stuff ⚒️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainideepanshu199&label=Profile%20views&color=0e75b6&style=flat" alt="sainideepanshu199" /> </p>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainideepanshu199" alt="sainideepanshu199" /></a> </p>
+<p align="left">
 
 - 🌱 I’m currently learning **Firebase**
 
 - 📫 How to reach me **ds2178199@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="https://instagram.com/deepanshu_saini_199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepanshu_saini_199" height="30" width="40" /></a>
 </p>
 
