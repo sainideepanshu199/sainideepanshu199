@@ -22,7 +22,9 @@
 <br>
 <br>
 <p><img align="left" width="360"  src="https://github-readme-stats.vercel.app/api/top-langs?username=sainideepanshu199&show_icons=true&locale=en&layout=compact&theme=vue" alt="sainideepanshu199" /></p>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sainideepanshu199&show_icons=true&locale=en&theme=vue" alt="sainideepanshu199" /></p>
+<br>
 <p><img align="left" width="650"
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sainideepanshu199&theme=vue"/>
 </p>
