@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Saini</h1>
 <h3 align="center">Mobile Application Developer 📱 Android 💚 | Flutter 💙 Design | Create | Build stuff ⚒️</h3>
-<img align="center" alt="Coding" width="1000" height="450" src="https://www.innovination.com/wp-content/uploads/2021/07/mobile-app-1.gif"&theme=tokyonight>
+<img align="center" alt="Coding" width="1000" height="600" src="https://www.innovination.com/wp-content/uploads/2021/07/mobile-app-1.gif"&theme=tokyonight>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainideepanshu199&label=Profile%20views&color=0e75b6&style=flat" alt="sainideepanshu199" /> </p>
 
